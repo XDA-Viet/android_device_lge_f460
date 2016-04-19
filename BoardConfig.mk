@@ -1,6 +1,8 @@
 LOCAL_PATH := device/lge/f460
 BOARD_VENDOR := lge
 
+# TekOS
+TARGET_BUILD_DEVELOPER := yes
 # Soc platform
 TARGET_BOARD_PLATFORM := apq8084
 TARGET_BOARD_PLATFORM_GPU := qcom-adreno420
